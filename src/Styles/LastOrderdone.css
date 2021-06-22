@@ -1,0 +1,13 @@
+.final-touch{
+    text-align: center;
+    color: cornflowerblue;
+    margin: 25px;
+}
+.final-touch button{
+    display: inline-block;
+    box-shadow: 10px 15px 20px 0 rgba(0,0,0,0.5);
+    background-color: cornflowerblue;
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+}

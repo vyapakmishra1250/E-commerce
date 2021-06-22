@@ -1,0 +1,15 @@
+
+.main_carousel{
+    box-shadow: 5px 10px 20px -10px rgba(0, 0, 0, 0.5);
+    border: 1px solid wheat;
+    align-items: center;
+    background-color: black;
+    height: 40vh;
+}
+.inside_carousel img{
+    display: block;
+    height: auto;
+    width: auto;
+    position: absolute;
+    display: block;
+}
